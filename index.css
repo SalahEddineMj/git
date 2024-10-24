@@ -6,6 +6,6 @@
   box-sizing: border-box
 }
 input {
-  background: none;
+  background: red;
   width: 100%;
 }
